@@ -12,3 +12,8 @@ docker compose up -d
 ```bash
 docker compose ps
 ```
+
+### jalankan aplikasi
+- hapus package-lock.json
+- npm install
+- npm run dev
